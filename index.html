@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Weather Info</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+      <div id="weather-header">
+          <h1>Weather Info</h1>
+      </div>
+    <div class="container">
+        <form class="Search-for-a-city">
+            <h2>Search for a city</h2>
+            <input
+            type="text"
+            name="name"
+            value=""
+            placeholder="Enter a city..."
+            class="input-text"
+            />
+            <input
+            type="submit"
+            name="submit"
+            value="search"
+            class="submit" 
+            />
+        </form>
+    </div>
+    <div id="weather-collection" class="container">
+    </div>
+  </body>
+
+  <script src="index.js"></script>
+</html>

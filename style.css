@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: monospace;
+  }
+  
+  #weather-header {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    background: #4fa3db;
+    opacity: .8;
+    height: 4rem;
+    padding: 1rem;
+  }
+
+  #weather-collection {
+    margin: 20px;
+  }
+
+  .Search-for-a-city {
+    justify-content: center;
+    padding: 1rem;
+    width: auto;
+    height: auto;
+    display: center;
+    opacity: .8;
+  }
+
+   
+  .input-text {
+    border-radius: 1px;
+    height: 2rem;
+    width: 100%;
+    font-size: 18px;
+    font-family: monospace;
+    margin: 3px;
+  }
+
+  
+  .submit {
+    position: relative;
+    background-color: #4ba9e0;
+    border-radius: 1px;
+    height: 2.3rem;
+    width: 100%;
+    color: whitesmoke;
+    font-size: 18px;
+    justify-self: center;
+    font-family: monospace;
+    margin: 3px;
+  }
+
+  .card {
+    font-size: 15px;
+    border: 3px solid rgb(0, 153, 255);
+    background-color: rgb(5, 203, 238);
+    padding: 20px;
+    margin-bottom: 50px;
+    display: inline-grid;
+    width: 15rem;
+    height: 15rem;
+    float: left;
+    margin-right: 50px;
+  }
+
+  #button {
+    font-size: 20px;
+  }
+  
+  
+  
+  
+  
+  
+ 
