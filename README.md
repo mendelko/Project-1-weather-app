@@ -1,5 +1,6 @@
 # Project-1-weather-app
-Weather Info
+
+# Description 
 > User can search for any city and get the weather (wind speed and temperature). User also has the option to change the degrees from fahrenheit to celcius and vice versa. 
 <hr>
 
