@@ -19,6 +19,6 @@ Weather Info
 <hr>
 
 # Conclusion
-> We created 4 event listeners and a function, as well as html and css files, and now we have a full blown program that can be used by any user in the world to see the current weather.
+> We created 4 event listeners and a function, as well as html and css files, and now we have a full blown program that can be used by any user in the world to view the current weather.
 
 
