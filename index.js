@@ -6,7 +6,6 @@ const inputText = document.querySelector(".input-text")
 
 
 
-
 function showCity(city){
     console.log("city", city)
 
@@ -65,4 +64,5 @@ inputText.addEventListener('change', (e) => {
         alert("Please search for a valid city")
        })
      })
+
     

@@ -10,7 +10,7 @@ Weather Info
 <hr>
 
 # Code goals
-> The index.js file will have four event listeners and one function. 
+> The index.js file will have 4 event listeners and one function. 
 > One should change the city in the api to match the city typed into the text input.
 > The second one should submit the city typed into the seach bar without reloading the page.
 > The third one should allow us to change the degrees fahrenheit to degrees celcius and vice versa.
@@ -19,5 +19,6 @@ Weather Info
 <hr>
 
 # Conclusion
-> We created four event listeners and a function, as well as html and css files, and now we have a full blown program that can be used by any user in the world to view the current weather.
+> We created 4 event listeners and a function, as well as html and css files, and now we have a full blown program that can be used by any user in the world to view the current weather.
+
 
