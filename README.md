@@ -2,11 +2,13 @@
 Weather Info
 > User can search for any city and get the weather (wind speed and temperature). User also has the option to change the degrees from fahrenheit to celcius and vice versa. 
 <hr>
+
 # How to use the app
 > Type in the city name, click search and and view the weather. 
 > Click on the degrees button to toggle it from fahrenheit to celcius and vice versa. 
 > Click the "delete" button to remove that city.
 <hr>
+
 # Code goals
 > The index.js file will have 4 event listeners and one function. 
 > One should change the city in the api to match the city typed into the text input.
