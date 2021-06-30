@@ -63,6 +63,7 @@ inputText.addEventListener('change', (e) => {
        .catch(() => {
         alert("Please search for a valid city")
        })
+       console.log('hello');
      })
 
     
